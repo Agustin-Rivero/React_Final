@@ -1,0 +1,15 @@
+img{
+    width: 250px;
+    height: 250px;
+    }
+
+
+.container
+{
+
+display: flex;
+justify-content: center;
+align-items:  center;
+flex-direction: column;
+padding: 50px;
+}
